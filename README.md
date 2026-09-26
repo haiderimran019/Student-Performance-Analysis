@@ -4,6 +4,8 @@ An exploratory data analysis (EDA) of 1,000 students' exam scores, looking at
 whether gender, parental education, lunch type (socioeconomic proxy), and
 test preparation are associated with academic performance.
 
+**Live dashboard:** [Explore the interactive dashboard](https://haiderimran019.github.io/student-performance-analysis/student_performance_dashboard.html)
+
 **Dataset:** [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 — 1,000 rows, 8 columns (gender, race/ethnicity, parental level of education,
 lunch, test preparation course, math/reading/writing scores).
